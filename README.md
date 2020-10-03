@@ -1,5 +1,6 @@
 # Airbnb
 ## Airbnb Data Visualizations
+![screenshot](https://user-images.githubusercontent.com/14542118/95002050-2f4f6180-05d0-11eb-835f-edbaefea1d2c.PNG)
 
 
 ## Airbnb data paves the way for future research in the field and proves that it is possible to identify and predict an Airbnb listing price with a field of machine learning and deep learning methods and techniques that provide an identifiable pattern for the results in this dissertation. : 
