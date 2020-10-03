@@ -1,8 +1,9 @@
 # Airbnb
-Airbnb Data Visualizations
-Airbnb data paves the way for future research in the field and proves that it is possible to identify and predict an Airbnb listing price with a field of machine learning and deep learning methods and techniques that provide an identifiable pattern for the results in this dissertation. : 
- This study has identified
-how well a panel of six machine learning methods can predict the Airbnb price in Copenhagen and establish a basis for a sustainable model approach for Copenhagen's Airbnb environment. 
+## Airbnb Data Visualizations
+
+
+## Airbnb data paves the way for future research in the field and proves that it is possible to identify and predict an Airbnb listing price with a field of machine learning and deep learning methods and techniques that provide an identifiable pattern for the results in this dissertation. : 
+This study has identified how well a panel of six machine learning methods can predict the Airbnb price in Copenhagen and establish a basis for a sustainable model approach for Copenhagen's Airbnb environment. 
 With these questions in mind, a comprehensive study of the dataset has been performed to explore the research foundations and find appropriate patterns of choice of features to assess the accuracy of machine learning models available for implementation. 
 The dataset was explored to identify missing values and errors in  features of the dataset, followed by a selection process of a set of realistic features Identification patterns for the data set's missing values, cleaning process, and feature selection served as our largest data processing foundation to establish a dataset that matched the capabilities of all the ml models 
 
